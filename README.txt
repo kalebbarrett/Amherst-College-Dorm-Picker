@@ -1,13 +1,10 @@
 This program is designed to help Amherst College students decide on a dorm based on buildings they want to be near.
-After running the code, a menu screen will appear. Using buttons, the user has the option to view the instruction page
-or simply start their selection. If the user presses the "instructions" button, they will be brought to a screen describing the
-program and how to use it. If the user presses the "start" button on either the menu or instruction page, they will 
-be brought to the selection screen. Here, they will see four dropdown menus. The user should input four buildings/locations 
-on campus that they would like to prioritize being near. The user can also select the same dorm multiple times if they wish to "add weight" 
-to it, meaning it will be accounted for twice, thus making the result closer to that specific priority. After four priorities are 
-selected, click submit. This will bring the user to the results page, where specialized information will be displayed, including the 
-top three best dorms for their selected priorities, the average distance to each dorm, and the closest and further priority 
-building to the top dorm. The user can click restart to run the program again.
+After running the code, a menu screen will appear. Using buttons, the user has the option to view the instruction page or simply start their selection. 
+If the user presses the "instructions" button, they will be brought to a screen describing the program and how to use it. 
+If the user presses the "start" button on either the menu or instruction page, they will be brought to the selection screen. Here, they will see four dropdown menus. 
+The user should input four buildings/locations on campus that they would like to prioritize being near. 
+The user can also select the same dorm multiple times if they wish to "add weight" to it, meaning it will be accounted for twice, thus making the result closer to that specific priority. 
+After four priorities are selected, click submit. This will bring the user to the results page, where specialized information will be displayed, including the top three best dorms for their selected priorities, the average distance to each dorm, and the closest and further priority building to the top dorm. The user can click restart to run the program again.
 
 No code was copied, but these were referenced: 
 https://www.geeksforgeeks.org/java-swing-jtextfield/ 
